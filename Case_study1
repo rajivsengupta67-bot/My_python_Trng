@@ -1,0 +1,6 @@
+# Question:
+# Write a program that takes a list of numbers and removes all duplicates using a set.
+
+list_numbers=[1,2,3,3,4,5]
+set_numbers=set(list_numbers)
+print(set_numbers)
