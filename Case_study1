@@ -3,4 +3,4 @@
 
 list_numbers=[1,2,3,3,4,5]
 set_numbers=set(list_numbers)
-print(set_numbers)
+print(set_numbers,type(set_numbers))
