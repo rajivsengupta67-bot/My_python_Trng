@@ -1,5 +1,5 @@
 products = {
-    "Laptop": 75000,
+    "Super Computer": 90000,
     "Phone": 50000,
     "Tablet": 30000,
     "Monitor": 20000
